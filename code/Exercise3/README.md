@@ -1,4 +1,6 @@
 # Code of your exercise
+Authors: Dufeil Jaufret & Gentile Brian
+
 
 Put here all the code created for this exercise
 

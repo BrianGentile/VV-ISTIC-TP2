@@ -1,5 +1,4 @@
 # Extending PMD
-
 Use XPath to define a new rule for PMD to prevent complex code. The rule should detect the use of three or more nested `if` statements in Java programs so it can detect patterns like the following:
 
 ```Java
@@ -22,6 +21,8 @@ You can find more information on extending PMD in the following link: https://pm
 Use your rule with different projects and describe you findings below. See the [instructions](../sujet.md) for suggestions on the projects to use.
 
 ## Answer
+
+Authors: Dufeil Jaufret & Gentile Brian
 
 This is my rule in xml : 
 ```xml

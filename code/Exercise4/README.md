@@ -1,5 +1,7 @@
 # Code of your exercise
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 Main:
 ```java
 package fr.istic.vv;

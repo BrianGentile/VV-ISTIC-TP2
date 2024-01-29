@@ -6,6 +6,8 @@ You can use the default [rule base](https://github.com/pmd/pmd/blob/master/pmd-j
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 ```java
 if (!result) {
             return false;
